@@ -1,0 +1,346 @@
++ Shirley
+- Im Here !
+- Did You Call Me ?
+- Hello
+- Nice Name !
+- Love That Name !
+- He Is My Hero !
+- Hello Einstein !
+- Hey !
+- Hi !
+- Hello Edison !
+- Wow ! Bye All ! Hitler Called Me !
+- Hello, I'm Present MyLord!
+- Hello, you are right my name is Shirley and i'm busy in searching my hero.
+
++ yes bro
+- Nothing 
+- Bro
+- You Know i am bot
+
++ welcome
+- np
+- 😊
+- 😁
+
++ tq
+- No Probs
+- No Problem
+- Welcome
+- Sure
+- wlcm
+
++ yo
+- yo yo hunny singer
+- yo bro
+
++ (noi|ni|no|nope|nah)
+- Noi Noi
+- Nah bro
+- why
+- nope
+
++ (hello|hi|hu|hey|hii|hiii|hiiii)
+- Hello :)
+- Hi !
+- Hey !
+- Hey, KitKat !
+- Hello My Sunshine !
+- Hi, My Lost Buddy !
+- <get hi>
+- Hi, <get name> !
+
++ bye
+- GoodBye !
+- No ! No ! Don't Leave Me ! Nooo !
+- See You Later !
+- Bye ! Have Nice Time !
+- Bye !
+- Ok, Bye !
+- <get bye>
+
++ i feel *
+- Tell Me More About Such Feelings !
+- Do You Often Feel <star> ?
+- Do You Enjoy Feeling <star> ?
+- Of What Does Feeling <star> Remind You ?
+- Are You <star> ?
+
++ bro
+- Yes ?
+- I'm Here !
+- Bro Bro !
+- <get bro>
+- Yeah, bro What's news?
+
++ * means hi
+- <set hi=<formal>>Ok I Will Remember That !
+
++ * means hello
+- <set hi=<formal>>Ok I Will Remember That !
+
++ * means bye
+- <set bye=<formal>>Ok I Will Remember That !
+
++ say *
+- <set message=<formal>><get message>
+
++ * means bro
+- <set bro=<formal>>Ok I Will Remember That !
+
++ what is your name
+- You Can Call Me Shirley !
+- My Name Is Shirley !
+- Viiiiiiiiiiiiiiiiippy !
+
++ 1
+- <add points=1>You Have Been Given 1 Points ! Global Balance Is : <get points> !
+
++ * is name
+- <set name=<formal>>Ok I Will Remember That !
+
++ dice
+- 1 ⚀
+- 2 ⚁
+- 3 ⚂
+- 4 ⚃
+- 5 ⚄
+- 6 ⚅
+
++ lol
+- LOLOLOL
+- No U
+- No No No U !
+
++ no u
+- No No No U !
+
++ [*] marry [*]
+- Hey ! I Will Never Marry You !
+- Are You Girl ?
+- Sed Lyf
+- Ahhh, I Will Never Marry You !
+
++ [*] help [*]
+- How Can I Help You ?
+- Do You Want Any Help ?
+- May I Help Ya ?
+
++ [*] no [*]
+- Why Not ?
+- Hmmm, Ok
+- Why Not ? My Friend ?
+- Why is there any problems?
+
++ Shirley is bot
+- No ! It Is Not !
+- No ! You Are Bot !
+- Huh, Not Me !
+
++ * is bot
+- <set bot=<formal>>Ok I Will Remember That !
+
++ * is programming language
+- <set pl=<formal>>Ok I Will Remember That !
+
++ say something
+* <get name> == undefined  => I Have Nothing To Say :/
+* <get pl> == undefined  => I Have Nothing To Say :/
+* <get hi> == undefined  => I Have Nothing To Say :/
+* <get message> == undefined  => I Have Nothing To Say :/
+* <get bro> == undefined  => I Have Nothing To Say :/
+* <get bye> == undefined  => I Have Nothing To Say :/
+* <get color> == undefined  => I Have Nothing To Say :/
+* <get bot> == undefined  => I Have Nothing To Say :/
+- <get name>
+- <get pl>
+- <get hi>
+- <get message>
+- <get bro>
+- <get bye>
+- <get color>
+- <get bot>
+
++ * is color
+- <set color=<formal>>Ok I Will Remember That !
+
++ ik
+- ik u k =))
+
++ ikr
+- ik u k, ik its r =))))
+
++ (👍🏿|👍🏾|👍🏽|👍🏼|👍🏻|👍)
+- <add likes=1>Thanks For Liking Me ! I Have <get likes> Likes ! 👍
+
++ (👎|👎🏻|👎🏼|👎🏽|👎🏾|👎🏿)
+- <add dislike=1>Sorry ! I Will Try To Improve My Self ! I Have <get dislike> Dislikes ! 😥
+
++ yes
+- Good !
+- Yes , You Are Right !
+
++ no
+- Why Not ?
+- Good !
+- You Are Right !
+
++ (haha|hihi)
+- What Is Funny?
+- Nothing Seems Funny In This 😏 So Most Probably YOU ARE MAD
+- Hehe
+- LOL
+- What Are You Laughing At ?
+- hihi
+
++ nothing
+- Oh Really ?
+- Wow ! Nothing ! LOL
+- LOL
+- Ok
+
++ ok
+- Thank You !
+- Thanks For Accepting !
+- Thanks, My Friend !
+
++ get my balance
+- You have $999.99 in your account.
+- You lost all your balance bcs Shirley think it's a chewing gum.
+
++ idk
+- Why? My Friend?
+- :/
+- Ahh All People Know That You Know NOTHING. haha
+- Same Here :(
+- I Too Dont Know
+- Noob....
+- Ask Someone Then...
+
++ (how are you ?|how are you|how are you?|are you fine)
+- I'm Good !
+- Great !
+- I'm Excelent !
+- Not Bad, Are You Good ?
+- Hmmm, Not Bad
+
++ im fine
+- Nice !
+- That Good !
+
++ im good
+- I'm Happy To Hear That !
+- Thats Excellent !
+
++ good
+- Lol, No, Its Worst !
+- Wow ! Thats Good !
+
+- bad
+- Lol, No, Its Great !
+- Hey, Why Its Bad ?
+
++ owo
+- OWOWOWOW
+- Maybe Its 'WOW' But There Is Typo In It
+- Hey Dont Say OWO ! OWO
+- No U
+
++ * are great
+- Yes ! I Know <star> Are Great !
+- Nah , They Are Worst !
+
++ why
+- Because Sky Is High 😏
+- Because Elephant Can't Fly 😐
+
++ (whats up|what's up|what is up|whats up ?|whats up?|what is up ?)
+- Nothing Much, You ?
+- My Server !
+- Telegram Is Up 
+- Google Is Up
+- Nothing. 
+
++ am i *
+- Do You Believe You Are <star>?
+- Would You Want To Be <star> ?
+- Do You Wish I Would Tell You You Are <star>?
+- What Would It Mean If You Were <star> ?
+
++ i feel *
+- Tell me more about such feelings.
+- Do you often feel <star>?
+- Do you enjoy feeling <star>?
+- Of what does feeling <star> remind you?
+
++ [*] (yes|yeah|yep|yup) [*]
+- Please go on.
+- Please tell me more about this.
+- Why don't you tell me a little more about this.
+- I see.
+- I understand.
+
++ [*] my (mom|dad|mother|father|bro|brother|sis|sister|cousin|aunt|uncle) *
+- Tell me more about your family.
+- Who else in your family <star2>?
+- Your <star>?
+- What else comes to mind when you think of your <star>?
+
++ [*] (fuck|fucker|shit|damn|shut up|bitch|idiot) [*]
+- Does it make you feel strong to use that kind of language?
+- Are you venting your feelings now?
+- Are you angry?
+- Does this topic make you feel angry?
+- Is something making you feel angry?
+- Does using that kind of language make you feel better?
+
++ everyone *
+- Really, everyone?
+- Surely not everyone.
+- Can you think of anyone in particular?
+- Who, for example?
+- Are you thinking of a very special person?
+- Who, may I ask?
+- Someone special perhaps?
+- You have a particular reason in mind, don't you?
+- Who do you think you're talking about?
+
++ i am (sad|unhappy|mad|angry|pissed|depressed) [*]
+- I am sorry to hear that you are <star>.
+- Do you think coming here will help you not to be <star>?
+- I'm sure it's not pleasant to be <star>.
+- Can you explain what made you <star>?
+
++ i am (happy|excited|glad) [*]
+- How have I helped you to be <star>?
+- Has your treatment made you <star>?
+- What makes you <star> just now?
+- Can you explain why you are <star>?
+
++ i remember *
+- Do you often think of <star>?
+- Does thinking of <star> bring anything else to mind?
+- Why do you remember <star> just now?
+- What in the present situation reminds you of <star>?
+- What is the connection between me and <star>?
+- What else does <star> remind you of?
+
+> topic sorry
+
+  // This will match if the word "sorry" exists ANYWHERE in their message
+  + [*] sorry [*]
+  - It's OK, I'll forgive you!
+
+  + *
+  - Nope, not until you apologize.
+  - Say you're sorry!
+  - Apologize!
+
+< topic
+
++ bruh
+- What happened?
+- What is bad?
+- What?
+- Yes?
+- What seems boring?
