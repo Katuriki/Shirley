@@ -2,6 +2,6 @@
 A chat bot,maybe..
 
 
-![Shirley](https://telegra.ph/file/e59f4bec89af9a5c8eab1.jpg)
+![Shirley](https://telegra.ph/file/577a5946890f59f1522b5.gif)
 
 
