@@ -1,0 +1,5 @@
+rivescript
+python-telegram-bot
+gtts
+wikipedia
+covid19-data
